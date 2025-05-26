@@ -11,3 +11,13 @@ Este proyecto utiliza Machine Learning para predecir si la primera etapa del coh
 ```bash
 pip install -r requirements.txt
 python src/model_pipeline.py
+
+### `requirements.txt`
+
+```txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
